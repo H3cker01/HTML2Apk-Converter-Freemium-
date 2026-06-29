@@ -17,8 +17,9 @@ No installation required. Just download and run.
 ## What it does
 
 html2apk wraps the real Android SDK build pipeline (`aapt2`, `zipalign`, `apksigner`, `bundletool`) into a simple GUI. You provide your HTML/JS/CSS — either as a local folder or a URL — and it produces a properly built, signed Android app.
-
----
+ 
+## full video is iut watch it to get detailed guide
+https://youtu.be/zR33n7eqnns?si=mL7EEg7-Hjzvr1qg
 
 ## Features
 
